@@ -1,3 +1,0 @@
-[submodule "yolov5_Deepsort_rknn"]
-	path = yolov5_Deepsort_rknn
-	url = https://github.com/Zhou-sx/yolov5_Deepsort_rknn
